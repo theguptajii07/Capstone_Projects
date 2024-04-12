@@ -1,1 +1,1 @@
-Here lies all the capstone_projects which I made for education and learning purpose.
+Here lies all the **Capstone_Projects** which I have made for educational and learning purpose.
